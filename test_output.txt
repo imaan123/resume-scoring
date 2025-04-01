@@ -1,0 +1,3 @@
+Rank 1: testresume3.txt - Score: 0.8501
+Rank 2: testresume1.txt - Score: 0.6471
+Rank 3: testresume2.txt - Score: 0.6471

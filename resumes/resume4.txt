@@ -1,0 +1,29 @@
+Name: Emily CarterEmail: emilycarter@email.comPhone: (444) 789-1234LinkedIn: linkedin.com/in/emilycarter
+
+Summary:IT Support Specialist looking to transition into cloud security. Recently completed a cloud security bootcamp and has foundational knowledge of AWS and network security.
+
+Skills:
+
+Basic AWS Security & IAM
+
+Network Troubleshooting
+
+Security Awareness Training
+
+Linux & Windows Administration
+
+CompTIA Security+ Knowledge
+
+Experience:IT Support Specialist – GHI Corp, Aug 2022 – Present
+
+Assisted with troubleshooting network security issues.
+
+Conducted security awareness training sessions for employees.
+
+Managed access control permissions for cloud-based applications.
+
+Certifications:
+
+AWS Certified Cloud Practitioner
+
+CompTIA Security+ (In Progress)

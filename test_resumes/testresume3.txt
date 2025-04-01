@@ -1,0 +1,25 @@
+Name: Sophia MartinezEmail: sophiamartinez@email.comPhone: (777) 888-9999LinkedIn: linkedin.com/in/sophiamartinez
+
+Summary:Cybersecurity Analyst with a strong foundation in threat detection, incident response, and compliance. Interested in cloud security roles.
+
+Skills:
+
+Threat Detection & Incident Response
+
+SIEM Tools (Splunk, QRadar)
+
+AWS Security (IAM, GuardDuty, CloudTrail)
+
+Risk & Compliance (ISO 27001, NIST)
+
+Experience:Cybersecurity Analyst – STU Cyber, March 2022 – Present
+
+Investigated security incidents and provided remediation recommendations.
+
+Assisted in implementing cloud security policies.
+
+Certifications:
+
+AWS Certified Security – Specialty
+
+CompTIA Security+

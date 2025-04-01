@@ -1,0 +1,5 @@
+Rank 1: resume1.txt - Score: 1.6894
+Rank 2: resume5.txt - Score: 1.3755
+Rank 3: resume2.txt - Score: 1.1622
+Rank 4: resume3.txt - Score: 0.9093
+Rank 5: resume4.txt - Score: 0.6471

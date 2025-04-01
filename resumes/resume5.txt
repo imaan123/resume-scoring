@@ -1,0 +1,29 @@
+Name: Michael LeeEmail: michaellee@email.comPhone: (666) 222-3344LinkedIn: linkedin.com/in/michaellee
+
+Summary:Recent graduate with a passion for cloud security. Completed multiple cloud security projects and holds an AWS certification. Looking for an entry-level role in cloud security.
+
+Skills:
+
+AWS Security (IAM, VPC, CloudTrail)
+
+Python for Security Automation
+
+Security Compliance & Risk Management
+
+Network Security & Firewalls
+
+SIEM & Threat Detection
+
+Education:Bachelor’s in Cybersecurity – XYZ University, 2023
+
+Projects:
+
+Built a secure AWS environment using Terraform and AWS Security Hub.
+
+Developed an automated IAM policy review system using Python.
+
+Certifications:
+
+AWS Certified Security – Specialty
+
+CompTIA Security+

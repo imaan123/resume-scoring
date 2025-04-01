@@ -1,0 +1,25 @@
+Name: Alex JohnsonEmail: alexjohnson@email.comPhone: (111) 222-3333LinkedIn: linkedin.com/in/alexjohnson
+
+Summary:IT professional with experience in system administration and network security. Interested in transitioning into cloud security. Recently completed AWS Security training.
+
+Skills:
+
+System Administration (Windows/Linux)
+
+Network Security & Firewalls
+
+AWS Basics (IAM, VPC)
+
+Security Audits & Compliance
+
+Experience:IT Administrator – LMN Tech, June 2021 – Present
+
+Managed security configurations for enterprise systems.
+
+Conducted security risk assessments and implemented network policies.
+
+Certifications:
+
+CompTIA Security+
+
+AWS Certified Cloud Practitioner

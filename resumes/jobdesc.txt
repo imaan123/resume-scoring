@@ -1,0 +1,49 @@
+Job Summary:
+We are seeking a Cloud Security Engineer with 2 years of experience to join our team. In this role, you will be responsible for securing cloud environments, implementing security best practices, and mitigating threats across our cloud infrastructure. You will work closely with DevOps, IT, and security teams to ensure compliance with security policies and frameworks while enabling a secure cloud computing environment.
+
+Key Responsibilities:
+Cloud Security Implementation: Deploy and manage security controls for cloud platforms (AWS, Azure, GCP).
+
+Identity & Access Management (IAM): Enforce least privilege access, manage roles, and configure multi-factor authentication (MFA).
+
+Threat Detection & Incident Response: Monitor cloud environments for security threats, investigate incidents, and support incident response activities.
+
+Compliance & Risk Management: Ensure compliance with industry standards such as ISO 27001, SOC 2, NIST, and CIS benchmarks.
+
+Security Automation: Develop and implement security automation scripts using Terraform, CloudFormation, or Python.
+
+Network Security: Configure security groups, firewalls, VPNs, and cloud-native security services like AWS Security Hub, Azure Defender, and Google Security Command Center.
+
+DevSecOps Integration: Work with DevOps teams to integrate security tools into CI/CD pipelines and enforce security policies.
+
+Vulnerability Management: Perform regular vulnerability assessments, patch security gaps, and recommend remediations.
+
+Data Protection: Implement encryption mechanisms, key management, and data loss prevention strategies.
+
+Required Skills & Qualifications:
+2+ years of experience in cloud security or a related field.
+
+Hands-on experience with cloud platforms (AWS, Azure, or GCP).
+
+Strong understanding of security principles, IAM, network security, and encryption.
+
+Experience with security tools like SIEM, IDS/IPS, or endpoint security solutions.
+
+Knowledge of scripting languages (Python, Bash) and Infrastructure as Code (Terraform, CloudFormation).
+
+Familiarity with regulatory frameworks (GDPR, HIPAA, PCI-DSS) and cloud security best practices.
+
+Security certifications like AWS Certified Security – Specialty, Microsoft Certified: Security, Compliance, and Identity Fundamentals, or Certified Cloud Security Professional (CCSP) are a plus.
+
+Preferred Qualifications:
+Experience with container security (Docker, Kubernetes).
+
+Familiarity with Zero Trust architecture.
+
+Knowledge of security logging and monitoring solutions (ELK Stack, Splunk).
+
+Understanding of API security and Secure Software Development Lifecycle (SDLC).
+
+Job Type: Full-Time
+Location: [On-site/Remote/Hybrid]
+Salary: [Competitive – Based on experience]

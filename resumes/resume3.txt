@@ -1,0 +1,29 @@
+Name: Raj PatelEmail: rajpatel@email.comPhone: (555) 123-4567LinkedIn: linkedin.com/in/rajpatel
+
+Summary:DevOps Engineer with a strong focus on cloud security and automation. Experienced in implementing DevSecOps practices, securing CI/CD pipelines, and managing IAM policies.
+
+Skills:
+
+AWS & Azure Cloud Security
+
+CI/CD Pipeline Security (Jenkins, GitHub Actions)
+
+Infrastructure as Code (Terraform, Ansible)
+
+Docker & Kubernetes Security
+
+Python Scripting for Security Automation
+
+Experience:DevOps Engineer – DEF Technologies, May 2021 – Present
+
+Developed security-focused CI/CD pipelines with automated security scans.
+
+Managed cloud security policies and role-based access control (RBAC).
+
+Implemented container security best practices for Kubernetes clusters.
+
+Certifications:
+
+AWS Certified Security – Specialty
+
+Certified Kubernetes Security Specialist (CKS)

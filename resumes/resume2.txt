@@ -1,0 +1,29 @@
+Name: Jane SmithEmail: janesmith@email.comPhone: (987) 654-3210LinkedIn: linkedin.com/in/janesmith
+
+Summary:IT Security Analyst with 2 years of experience in cybersecurity, looking to transition into cloud security. Strong understanding of network security, threat analysis, and compliance. Recently completed AWS Cloud Security training.
+
+Skills:
+
+Network Security & Firewalls
+
+Incident Response & Threat Intelligence
+
+SIEM Tools (Splunk, QRadar)
+
+Basic AWS Security (IAM, CloudTrail)
+
+Compliance (HIPAA, PCI-DSS)
+
+Experience:IT Security Analyst – ABC Solutions, Feb 2022 – Present
+
+Conducted security audits and vulnerability assessments.
+
+Managed firewall configurations and security group policies.
+
+Monitored security logs for malicious activities.
+
+Certifications:
+
+CompTIA Security+
+
+AWS Certified Cloud Practitioner

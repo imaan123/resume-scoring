@@ -1,0 +1,31 @@
+Name: John DoeEmail: johndoe@email.comPhone: (123) 456-7890LinkedIn: linkedin.com/in/johndoe
+
+Summary:Certified Cloud Security Engineer with 2+ years of experience securing AWS and Azure environments. Proficient in IAM, network security, and automation with Terraform. Strong knowledge of security compliance frameworks such as NIST and CIS benchmarks.
+
+Skills:
+
+AWS Security (IAM, Security Hub, GuardDuty)
+
+Azure Defender & Sentinel
+
+Terraform, CloudFormation
+
+Python & Bash scripting
+
+Incident Response & SIEM (Splunk, ELK)
+
+Compliance (ISO 27001, SOC 2, NIST)
+
+Experience:Cloud Security Engineer – XYZ Tech, Jan 2023 – Present
+
+Implemented security best practices across AWS and Azure.
+
+Automated IAM policy management using Terraform.
+
+Monitored cloud environments for threats and conducted incident investigations.
+
+Certifications:
+
+AWS Certified Security – Specialty
+
+CompTIA Security+

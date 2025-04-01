@@ -1,0 +1,25 @@
+Name: Brian CarterEmail: briancarter@email.comPhone: (444) 555-6666LinkedIn: linkedin.com/in/briancarter
+
+Summary:Software Engineer with experience in secure coding practices and cloud security fundamentals. Looking to transition into cloud security engineering.
+
+Skills:
+
+Python, Java, and Secure Coding Practices
+
+Cloud Security Fundamentals (AWS, GCP)
+
+Web Application Security
+
+DevSecOps & CI/CD Pipeline Security
+
+Experience:Software Engineer – PQR Solutions, Jan 2022 – Present
+
+Developed secure web applications following OWASP guidelines.
+
+Assisted in cloud security audits and remediation.
+
+Certifications:
+
+AWS Certified Developer – Associate
+
+Certified Ethical Hacker (CEH)
